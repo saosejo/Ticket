@@ -1,0 +1,45 @@
+1. It always take some time to upload the assignments through matrix and sometimes can be
+annoying and despairing, however, is a way in which students as programmers can acquire good
+practices, to apply further because it forces the programmer to give a desire input, what in
+the professional field would be equivalent to satisfying a customer request, if customers 
+want something, we must be in the capacity to develop what they are asking for, this tool 
+face us as students to real daily situations at work. The use of matrix also is a good way 
+in which is learned how a compiler works and how different compilers from different operative 
+systems can differ one from another, in this case comparing a linux OS with a microsoft OS, 
+there can be found that some compilers don’t accept all libraries or libraries are different 
+from one to another. Finally using the matrix to submit assignments is a second way in which 
+the program created can be debugged as it takes the user step by step, but also, it shows 
+exactly where the program has a mistake and which mistake has been done, in case it needs to 
+be solved, as well matrix can be a many times a headache is a bad necessary to improve our 
+skills as programmers.
+
+2. Two name a module is necessary to have a clear image of what the project would be like and 
+estimate the number of modules you will be creating this with the end of knowing how explicit
+name of the module should be, for example if I am supposed to create a basic calculator then
+I know it only would have four basic functions; in that case I would not give detailed names
+to the modules, it should be something like, addition, subtraction, multiplication and 
+division, but if I am requested to create the same calculator but with much more features then
+names have to be more detailed and explicit like, basicOperationsAddition, 
+basicOperationsSubtraction and so on. even though it depends on the complexity of the project
+is always a good practice to anticipate to the worst scenario, so is always better to start
+giving very detailed names to the modules since the beginning of the project, so you are ready
+for any addition in the future. Headers and modules should have the same name, for different
+reasons one is a save of names, what I mean is that you would not get full of many different
+names for headers and modules, you are just using one, so the number of names used is reduced 
+by half and second in case some function in a module stops working you are going to be shown
+the header instead of the module, in that case if you have the same name for both then the
+name of the module where the error should be corrected is already giving instead of looking 
+around for it.
+
+3. A menu cascade form means that the program is created in a way the user is able to select
+different options displayed for them, the way in which the options are shown has to be always
+in form of list, this means one option per row, options can be listed using dots or numbers,
+usually if using dots, the interface should be interactive so the user can select the option,
+rather than using command prompt it has to be a numbered list there is no other option, as
+user would be asked to enter one of the numbers that correspond to the selected option. For 
+under this assignment where the option to update the user login information for this event a 
+cascade menu was used to ask the user what item of the user login he wan to change, either the
+name, the password or just exit that menu, this way of using functions in a program is very
+handy as it helps the programmer to code each option in a different function and just put all
+the option under an if selection or a switch selection, which is also easier to take the user
+through the program.
